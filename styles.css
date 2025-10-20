@@ -9,5 +9,24 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
-    
+  background-color: blueviolet;
+  font-size: 60px;
+  text-align: center;
+  margin: 10px;
+  border: 8px solid rgb(123,99,111);
+  padding:2%;
 }
+
+span::after{
+    content: "??";
+}
+span:hover{
+    background-color: rgb(165, 127, 201);
+    border: 
+}
+
+
+
+
+
+
